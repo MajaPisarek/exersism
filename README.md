@@ -1,0 +1,3 @@
+- [ ] Add header to this README file
+- [ ] 003 add description to each function comment
+- [ ] 004 add description to each function comment
